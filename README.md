@@ -1,2 +1,2 @@
 # Markdown.md
-An markdown tutorial stored as .md file
+An markdown tutorial compiled by myself from Runoob website stored as .md file for later reference
